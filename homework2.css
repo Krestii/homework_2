@@ -1,0 +1,41 @@
+h1 {
+    background: red;
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: white;
+}
+
+.paragraph-2 {
+    border: 10px solid black;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.paragraph-4 {
+    text-align: center;
+    font-size: 24pt;
+    font-style: oblique;
+    text-shadow: green 2px 2px 2px;
+}
+
+
+/* background
+font-size
+color
+border
+border-radius
+font-weight
+font-family */
